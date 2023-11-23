@@ -1110,7 +1110,7 @@ export const mockGeographyData = [
   },
   {
     id: "RUS",
-    value: 268735,
+    value: 17100000, // Replace this with the desired value for Russia
   },
   {
     id: "RWA",
@@ -1198,7 +1198,7 @@ export const mockGeographyData = [
   },
   {
     id: "TKM",
-    value: 327016,
+    value: 488100, // Replace this with the desired value for Turkmenistan
   },
   {
     id: "TLS",
